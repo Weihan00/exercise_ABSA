@@ -1,2 +1,2 @@
 # exercise_ABSA
-Prepare for master thesis.
+Prepare for my master thesis.
